@@ -1,0 +1,6 @@
+{
+    "prettier.requireConfig": true,
+    "prettier.tslintIntegration": true,
+    "prettier.useTabs": true,
+    "emulator.emulatorPathLinux": "~/Library/Android/sdk/emulator/emulator -list-avds"
+}
